@@ -72,7 +72,7 @@ Start with brute force to understand the problem
 Optimize using backtracking and constraints
 Avoid invalid states early (pruning)
 Recursion becomes efficient when guided by conditions
-🔗 References
+## 🔗 References
 
 I referred to external resources to understand the optimized backtracking approach.
 
