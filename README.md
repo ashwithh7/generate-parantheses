@@ -61,3 +61,29 @@ The output is naturally in **lexicographical order** without sorting.
 ---
 
 ## 📌 Example (n = 3)
+{{{}}}
+{{}{}}
+{{}}{}
+{}{{}}
+{}{}{}
+
+## 📚 Key Takeaways
+Start with brute force to understand the problem
+Optimize using backtracking and constraints
+Avoid invalid states early (pruning)
+Recursion becomes efficient when guided by conditions
+🔗 References
+
+I referred to external resources to understand the optimized backtracking approach.
+
+
+## 📈 Conclusion
+
+This problem helped me strengthen my understanding of:
+
+Recursion
+Backtracking
+Efficient problem-solving techniques
+
+## ⭐ If you found this useful, feel free to star the repo!
+
